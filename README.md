@@ -26,6 +26,10 @@ Grab the `zone_id` from any of these JSON objects and replace it into the config
 
 Run `node .` in your `dist` folder after building. I would recommend using a systemd service to handle running and restarting this program.
 
+## Docker
+
+Place `docker-compose.yml` somewhere and run `docker compose up -d` or `docker-compose up -d` and enjoy!
+
 ## Contribution
 
 Contributions are welcome. Create an issue or pull request to add features, fix bugs, report problems, etc.
