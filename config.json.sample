@@ -1,0 +1,15 @@
+{
+  "server": {
+    "port": 8000,
+    "username": "user",
+    "password": "change_this_password",
+    "ratelimit": 1000
+  },
+  "api_token": "xxxxxxxx",
+  "zone_id": "xxxxxxxx",
+  "records": [
+    { "id": "xxxxxxxx", "name": "a.example.com" },
+    { "id": "xxxxxxxx", "name": "b.example.com" },
+    { "id": "xxxxxxxx", "name": "c.example.com" },
+  ]
+}
